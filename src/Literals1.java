@@ -1,4 +1,4 @@
-public class Literals {
+public class Literals1 {
     public static void main(String[] args)
     {
         System.out.println("Here is the literals");
