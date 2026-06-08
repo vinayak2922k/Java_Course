@@ -1,6 +1,6 @@
   abstract class parent2{
    public parent2() {
-        System.out.println("Hi I am Constructor of ther Abs Class");
+        System.out.println("Hi I am Constructor of the Abs Class");
     }
      public void Wish() {
          System.out.println("Good morning Vinayak Sharma");
