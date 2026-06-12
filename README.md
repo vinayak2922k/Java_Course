@@ -141,6 +141,29 @@ This is not a copy-paste repo. Every file here represents **real practice, real 
 
 ---
 
+## 🗂️ Repository Structure
+
+```
+📦 Java-Programming-Course
+├── 📁 01_Fundamentals
+├── 📁 02_Control_Flow
+├── 📁 03_OOP
+│   ├── Encapsulation
+│   ├── Inheritance
+│   ├── Polymorphism
+│   └── Abstraction
+├── 📁 04_Arrays_Strings
+├── 📁 05_Exception_Handling
+├── 📁 06_Collections
+├── 📁 07_Multithreading
+├── 📁 08_File_Handling
+├── 📁 09_DSA_in_Java
+├── 📁 10_Advanced_Java
+└── 📄 README.md
+```
+
+---
+
 ## ⚙️ How to Run the Code
 
 **Prerequisites:**
@@ -192,9 +215,9 @@ java FileName
 
 If you're a recruiter, fellow developer, or just someone on the same learning path — let's connect!
 
-[![LinkedIn](https://www.linkedin.com/in/Vinayak2922k)
-[![GitHub](https://github.com/Vinayak2922k)
-[![GeeksforGeeks](https://auth.geeksforgeeks.org/user/Vinayak2922k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Vinayak2922k)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayak2922k)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Vinayak2922k)
 
 ---
 
