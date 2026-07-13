@@ -1,6 +1,5 @@
 import java.util.HashMap;
 import java.util.Scanner;
-
 public class Number_Hashing {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
